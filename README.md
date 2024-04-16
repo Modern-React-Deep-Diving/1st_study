@@ -18,5 +18,18 @@
 |클로저|채련|
 
 
+## 바로가기
 
+<details markdown = "1">
+<summary>접기/펼치기</summary>
+
+[📗 채련's Note](학습%20내용/채련.md)
+
+[📘 혜민's Note](학습%20내용/혜민.md)
+
+[📙 성구's Note](학습%20내용/성구.md)
+
+[📕 아영's Note](학습%20내용/아영.md)
+
+</details>
 
